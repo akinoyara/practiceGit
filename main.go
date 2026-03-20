@@ -7,7 +7,4 @@ func main() {
 		fmt.Println("some realization")
 	}
 
-	fmt.Println("1sogfivnhsfd")
-	fmt.Println("1sogfivnhsfd")
-	fmt.Println("1sogfivnhsfd")
 }

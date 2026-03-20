@@ -7,7 +7,4 @@ func main() {
 		fmt.Println("some realization")
 	}
 	fmt.Println("there is some new realization")
-	for n := 10; n < 20; n++ {
-		fmt.Println("new feature")
-	}
 }

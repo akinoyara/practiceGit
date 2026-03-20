@@ -15,4 +15,5 @@ func main() {
 			fmt.Println("new feature for dev2")
 		}
 	}
+	fmt.Println("hello")
 }

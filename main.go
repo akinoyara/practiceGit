@@ -9,5 +9,9 @@ func main() {
 	fmt.Println("start git/branch/dev1")
 	for n := 20; n < 30; n++ {
 		fmt.Println("some real for dev1")
+	fmt.Println("there is some new realization")
+	fmt.Println("start branch origin/dev2")
+	for n := 10; n < 20; n++ {
+		fmt.Println("new feature for dev2")
 	}
 }
